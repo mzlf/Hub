@@ -1,0 +1,1 @@
+if key then loadstring(game:HttpGet(""))() end
